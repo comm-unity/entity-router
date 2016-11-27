@@ -1,8 +1,7 @@
 <?php
 
-namespace AppBundle\Routing;
+namespace CommUnity\Component\EntityRouter;
 
-use CommUnity\Component\EntityRouter\src\RoutableEntityInterface;
 use Symfony\Bundle\FrameworkBundle\Routing\Router;
 
 /**

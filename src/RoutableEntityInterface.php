@@ -1,6 +1,6 @@
 <?php
 
-namespace CommUnity\Component\EntityRouter\src;
+namespace CommUnity\Component\EntityRouter;
 
 /**
  * Marker interface to resolve an entity from a route through
