@@ -14,7 +14,10 @@
     },
     "autoload": {
         "psr-4": {
-            "CommUnity\\Component\\EntityRouter\\": "src/"
-        }
+            "CommUnity\\Component\\EntityRouter\\": ""
+        },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
     }
 }
